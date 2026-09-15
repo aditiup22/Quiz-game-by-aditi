@@ -47,6 +47,17 @@ const questionJson = [
     ],
     question:
       "If you have a bowl with six apples and you take away four, how many apples do you have?"
+  },
+  {
+    correctAnswer: 'They are both the same weight',
+    options: [
+      'A ton of bricks',
+      'A ton of feathers',
+      'They are both the same weight',
+      'It depends on the type of bricks',
+    ],
+    question:
+      "Which is heavier: a ton of bricks or a ton of feathers?"
   }
 ]
 
